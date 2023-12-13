@@ -9,7 +9,7 @@ const express = require("express")
 
 
 const routes = require("./routes")
-const AppError = require("./utils/appError")
+const AppError = require("./utils/AppError")
 
 const { UPLOADS_FOLDER } = require('./configs/upload'); 
 
