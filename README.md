@@ -2,7 +2,7 @@
 
 ## 💡 Sobre
 
-O Api Food Explorer é uma aplicação consulta de um cardápio digital para um restaurante fictício, conhecido como foodExplorer.!
+O Api Food Explorer é uma aplicação para consultar um cardápio digital para um restaurante fictício, conhecido como foodExplorer.!
 
 Este projeto foi um desafio desenvolvido para uma avaliação técnica.
 
