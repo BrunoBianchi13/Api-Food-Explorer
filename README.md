@@ -54,12 +54,12 @@ Para clonar e executar esta aplicação, você precisará do [Git](https://git-s
 
 ```bash
 # Clone este repositório
-$ git clone https://github.com/carlosmfreitas2409/time-and-attendance-api
+$ git clone https://github.com/BrunoBianchi13/api-Food-Explorer.git
 
 # Entre no repositório
-$ cd time-and-attendance-api
+$ cd api-Food-Explorer
 
-# Instale as package.json
+# Instale o package.json
 $ npm install
 
 # Inicialização da Api
