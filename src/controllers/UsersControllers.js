@@ -1,7 +1,7 @@
 const { hash } = require("bcryptjs")
 const { compare } = require("bcryptjs");
 
-const AppError = require("../utils/appError")
+const AppError = require("../utils/AppError")
 
 const sqliteConnection = require('../database/sqlite')
 
