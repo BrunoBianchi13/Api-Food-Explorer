@@ -1,5 +1,5 @@
 const { Router } = require("express")
-const UsersControllers = require("../controllers/usersControllers")
+const UsersControllers = require("../controllers/UsersControllers")
 const ensureAuthenticated = require("../middlewares/ensureAuthenticated")
 
 
